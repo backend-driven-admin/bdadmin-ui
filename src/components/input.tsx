@@ -1,4 +1,4 @@
-import type React from "react";
+import React from "react";
 import { useEffect, useState } from "react";
 import { cn } from "../lib/utils";
 import { CheckIcon, Loader2Icon, TriangleAlertIcon } from "lucide-react";
